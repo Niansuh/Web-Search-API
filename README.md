@@ -9,3 +9,5 @@ app_port: 21111
 
 # Web-Search-API
 A lightweight API for web search to power LLM.
+
+Original Author: https://github.com/Hansimov
